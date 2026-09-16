@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1788192602,
+	"Version": 1789569080,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "CROSS PING BALANCING\n\nThe following perks are general banned:\nBlood Echo\nHex: Ruin\nScourge Hook: Weeping Wounds\nSloppy Butcher\n\nAdditionally, every ADD-ON that inflicts HAEMORRHAGE is BANNED. (List on Discord)",
 	"Tiers": [
@@ -465,7 +465,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"123"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
