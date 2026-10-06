@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1791069305,
+	"Version": 1791322935,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "CROSS PING BALANCING\n\nThe following perks are general banned:\nBlood Echo\nHex: Ruin\nScourge Hook: Weeping Wounds\nSloppy Butcher\n\nAdditionally, every ADD-ON that inflicts HAEMORRHAGE is BANNED. (List on Discord)",
 	"Tiers": [
@@ -14,6 +14,7 @@
 				"52",
 				"7",
 				"258",
+				"9",
 				"13",
 				"14",
 				"16",
@@ -37,6 +38,7 @@
 				"303",
 				"46",
 				"48",
+				"308",
 				"49",
 				"51",
 				"55",
@@ -53,6 +55,7 @@
 				"88",
 				"90",
 				"96",
+				"296",
 				"320",
 				"99",
 				"100",
@@ -88,7 +91,6 @@
 				"150",
 				"152",
 				"153",
-				"155",
 				"163",
 				"244",
 				"168",
@@ -99,7 +101,6 @@
 				"177",
 				"178",
 				"180",
-				"183",
 				"188",
 				"189",
 				"256",
@@ -110,6 +111,7 @@
 				"208",
 				"284",
 				"211",
+				"292",
 				"216",
 				"218",
 				"209",
@@ -149,10 +151,12 @@
 				"132",
 				"149",
 				"170",
+				"283",
 				"181",
 				"264",
 				"212",
-				"220"
+				"220",
+				"250"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": [
@@ -176,6 +180,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"170",
+				"283",
 				"181",
 				"212"
 			],
@@ -212,7 +217,9 @@
 				"127",
 				"36"
 			],
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"283"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
@@ -245,6 +252,7 @@
 				"95",
 				"92",
 				"109",
+				"111",
 				"112",
 				"118",
 				"121",
@@ -252,8 +260,15 @@
 				"314",
 				"36"
 			],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"KillerIndvPerkBans": [
+				"283"
+			],
+			"SurvivorComboPerkBans": [
+				[
+					"79",
+					"269"
+				]
+			],
 			"KillerComboPerkBans": []
 		},
 		{
@@ -299,6 +314,7 @@
 				"97",
 				"92",
 				"109",
+				"111",
 				"112",
 				"118",
 				"121",
@@ -1139,7 +1155,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"155"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2194,7 +2212,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"194"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3138,7 +3158,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"155"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
